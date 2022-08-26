@@ -1,3 +1,4 @@
 string
 
 add string
+new string
